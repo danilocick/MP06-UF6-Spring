@@ -9,10 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class Mp06Uf6SpringApplication {
 
+	//TODO: NOT TOUCH IT
 	public static void main(String[] args) {
 		SpringApplication.run(Mp06Uf6SpringApplication.class, args);
 	}
-
-
 
 }

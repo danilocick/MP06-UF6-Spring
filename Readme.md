@@ -4,3 +4,6 @@ Execute:
 ```
 ./mvnw spring-boot:run
 ```
+
+/resource/static : 
+> create html's there.
